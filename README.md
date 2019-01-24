@@ -1,4 +1,4 @@
-# JS-Hugues-s-Drums-
+# JS-Hugues-Drums
 The first day of the 30 Day Vanilla JS Coding Challenge
 
 Simple drums by Hugues 🥁
